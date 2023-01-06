@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#evaluatedText {
+  width: 100%;
+  height: 50px;
+  font-size: 20px;
+}
+
+#letterCount {
+  font-size: 20px;
+  font-weight: bold;
+}
